@@ -1,1 +1,1 @@
-# Breakout-Unity-
+This is a simple breakout game using 2D physics. This game can keep track of the score, the balls left and the level number. It includes a game over function and 3 levels with level transitioning. This game was developed using Unity with C#.
